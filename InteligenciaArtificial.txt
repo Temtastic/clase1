@@ -1,5 +1,4 @@
 La Inteligencia Artificial (IA) tiene aplicaciones en casi todos los sectores, transformando industrias y mejorando procesos. Aquí te dejo algunos de los usos más destacados:  
-
 🔹 1. Salud y Medicina
 - Diagnóstico médico: IA analiza radiografías, resonancias y tomografías para detectar cáncer, neumonía, etc. (ej: IBM Watson, DeepMind de Google).  
 - Medicina personalizada: Predice respuestas a tratamientos basados en genética y historial clínico.  
