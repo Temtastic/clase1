@@ -1,1 +1,3 @@
-
+Básicamente el machine learning permite a las inteligencias aprender en base a las necesidades del usuario, esto va desde aplicaciones de entretenimiento hasta lo que podrían ser inteligencias artificiales más complejas.
+Puede ser supervisado o no, o también por esfuerzo. Esto significa que puede guiarse por datos específicos, patrones de datos sin etiquetar o también mediante recompensas/castigos. 
+Podemos decir que es importante ya que automatiza procesos complejos y mejora mediante el ingreso de más datos.
