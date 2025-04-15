@@ -1,3 +1,8 @@
+La inteligencia artificial (IA) es una rama de la ciencia de la computación que se enfoca en crear sistemas y máquinas capaces de realizar tareas que normalmente requerirían inteligencia humana, como:
+Aprendizaje (machine learning, deep learning)
+Razonamiento (resolución de problemas, toma de decisiones)
+Percepción (reconocimiento de voz, imágenes, texto)
+Interacción (chatbots, asistentes virtuales como Siri o Alexa)
 La Inteligencia Artificial (IA) tiene aplicaciones en casi todos los sectores, transformando industrias y mejorando procesos. Aquí te dejo algunos de los usos más destacados:  
 🔹 1. Salud y Medicina
 - Diagnóstico médico: IA analiza radiografías, resonancias y tomografías para detectar cáncer, neumonía, etc. (ej: IBM Watson, DeepMind de Google).  
